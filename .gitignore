@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+
+# NestJS build output
+**/dist
+**/*.js
+**/*.js.map
+**/*.d.ts
+
+# Environment
+*.env
+
+# Docker
+docker-compose.override.yml
